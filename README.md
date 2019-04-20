@@ -30,6 +30,7 @@ To run the programs use the following commands in different terminal instances:
 ```
 $ ./writer.exe
 $ ./reader.exe
+$ ./semaphore_example.exe
 ```
 
 ## Authors
